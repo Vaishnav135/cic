@@ -5,7 +5,7 @@ public class now {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		{
-			int[] a={1,3,45,6,8,9};
+			int[] a={1,3,45,6,8,9,12};
 			
 			int max=a[0], min=a[0];
 			
